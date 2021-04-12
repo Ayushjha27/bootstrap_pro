@@ -1,0 +1,35 @@
+body {
+    font-family: 'Bitter', serif;
+}
+.height{
+    min-height:100vh;
+}
+.title-underline{
+    width:200px;
+    height:10px;
+    margin:0 auto;
+   /*background:blue!important;*/
+}
+
+.height-80{
+    min-height:80vh;
+}
+
+.about-picture{
+background:url(../images/i6.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+#filler,#progress{
+    
+    background:url(../images/i8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+
